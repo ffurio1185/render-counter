@@ -21,7 +21,7 @@ def home():
       </head>
       <body>
         <main>
-          <h1>Render Counter</h1>
+          <h1>My Render Counter</h1>
           <p>This process has handled {visits} request(s).</p>
           <p>Reload the page to increase the counter.</p>
         </main>
